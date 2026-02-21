@@ -102,6 +102,17 @@ To get a live URL for your portfolio (Vercel, Netlify, or GitHub Pages), follow 
 
 ---
 
+## Samples
+
+<img width="1512" height="862" alt="image" src="https://github.com/user-attachments/assets/0b0a673e-4405-4392-b8c4-1ae572166373" />
+<img width="1512" height="862" alt="image" src="https://github.com/user-attachments/assets/4b9d8a47-f1a9-4d03-970c-48f2016b6e74" />
+<img width="1511" height="860" alt="image" src="https://github.com/user-attachments/assets/617c27a3-e80f-4225-ae8b-98a656bb9289" />
+<img width="1512" height="864" alt="image" src="https://github.com/user-attachments/assets/edb5155d-d317-4223-a9c8-99fbf36e0de0" />
+
+
+
+
+
 ## Credits & Acknowledgements
 
 - Planet orbital elements: [NASA JPL](http://ssd.jpl.nasa.gov/?planet_pos)
